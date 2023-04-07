@@ -1,0 +1,7 @@
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.csproj.AssemblyReference.cache
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.AssemblyInfoInputs.cache
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.AssemblyInfo.cs
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.csproj.CoreCompileInputs.cache
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.MvcApplicationPartsAssemblyInfo.cs
+/Users/wilverine7/Desktop/School/Winter 2023/413/Mission13-1/backend/Mission14API/Mission14API/obj/Debug/net7.0/Mission14API.MvcApplicationPartsAssemblyInfo.cache
