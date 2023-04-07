@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import MovieInfo from './MovieList';
 import NavBar from './NavBar';
+import MovieList from './API/MovieList';
 
 function App() {
   return (
     <div>
       <NavBar />
-      <MovieInfo />
+      <MovieList />
     </div>
   );
 }
